@@ -1,7 +1,7 @@
 
 
 # Problem 
-[big-countries](https://leetcode.com/problems/big-countries/")
+[big-countries](https://leetcode.com/problems/big-countries/)
 
 ```sql
 SELECT
